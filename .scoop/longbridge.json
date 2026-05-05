@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/longbridge/longbridge-terminal/releases/download/v0.19.2/longbridge-terminal-windows-amd64.zip",
-      "hash": "b7540efedbceac6386f8420c624844d37ecefbde4e3f76b892054da001e68083"
+      "hash": "ba48659dd88b638bfd8eeefe63ea01fe47a74ed4b0e288a9ebf9ef7b004d2260"
     }
   },
   "bin": "longbridge.exe",
